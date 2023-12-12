@@ -10,4 +10,4 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
 streamlit run dashboard.py
 ```
 ## [Click here : Access via streamlit.app](https://first-dash-ageee.streamlit.app/)
-or got to : https://first-dash-ageee.streamlit.app/
+or go to : https://first-dash-ageee.streamlit.app/
