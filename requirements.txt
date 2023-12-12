@@ -37,14 +37,12 @@ pandocfilters==1.5.0
 parso==0.8.3
 pickleshare==0.7.5
 platformdirs==3.11.0
-playwright==1.39.0
 plumbum==1.8.2
 ply==3.11
 prompt-toolkit==3.0.39
 psutil==5.9.6
 pure-eval==0.2.2
 Pygments==2.16.1
-pyppeteer==1.0.2
 python-dateutil==2.8.2
 pytz==2023.3.post1
 pyzmq==25.1.1
