@@ -2,7 +2,6 @@ appdirs==1.4.4
 asttokens==2.4.0
 attrs==23.1.0
 backcall==0.2.0
-beautifulsoup4==4.12.2
 bleach==6.1.0
 certifi==2023.7.22
 colorama==0.4.6
@@ -49,7 +48,6 @@ Pygments==2.16.1
 pyppeteer==1.0.2
 python-dateutil==2.8.2
 pytz==2023.3.post1
-pywin32==306
 pyzmq==25.1.1
 referencing==0.30.2
 rpds-py==0.12.0
@@ -67,5 +65,4 @@ urllib3==1.26.18
 wcwidth==0.2.6
 webencodings==0.5.1
 websockets==10.4
-xgboost==2.0.1
 zipp==3.17.0
