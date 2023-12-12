@@ -2,10 +2,14 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
+import os
 sns.set(style='dark')
 
 # Load Data
-df = pd.read_csv("main_data.csv")
+current_directory = os.path.dirname(os.path.abspath(__file__))
+file_path = os.path.join(current_directory, 'main_data.csv')
+df = pd.read_csv(files_location)
+
 
 # Convert Datetime Data
 df['timestamp'] = pd.to_datetime(df['timestamp'])
