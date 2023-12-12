@@ -8,7 +8,7 @@ sns.set(style='dark')
 # Load Data
 current_directory = os.path.dirname(os.path.abspath(__file__))
 file_path = os.path.join(current_directory, 'main_data.csv')
-df = pd.read_csv(files_location)
+df = pd.read_csv(file_path)
 
 
 # Convert Datetime Data
